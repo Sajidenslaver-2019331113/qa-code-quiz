@@ -13,7 +13,7 @@ As of the latest attempt, the tests have not completed successfully due to a fai
 During the setup, running `npm start` triggered a prompt to install `@webpack-cli/serve`, which failed with the following error:
 
 - **Error**: `ERESOLVE unable to resolve dependency tree` due to a conflict between `webpack@5.99.9` and `webpack-cli@3.3.12` (requiring `webpack@4.x.x`), while `@webpack-cli/serve@3.0.1` requires `webpack@^5.82.0`.
-- **Resolution Attempt**: I tried updating `webpack-cli` to a version compatible with Webpack 5 (e.g., `^4`) and reinstalling dependencies to stabilize the setup.
+- **Resolution Attempt**: I have tried updating `webpack-cli` to a version compatible with Webpack 5 (e.g., `^4`) and reinstalling dependencies to stabilize the setup.
 
 ## Intended Test Cases
 
