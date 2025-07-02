@@ -22,7 +22,7 @@ The following test cases are planned to be executed once the server is operation
 | Test Case | Description | Status |
 | --- | --- | --- |
 | Login Form Display | Verifies that the login form is displayed with username, password inputs, and login button. | Pending |
-| Successful Login | Tests logging in with valid credentials (e.g., "SomeUser_name", "TopSecret1234!") and checks account details display. | Pending |
+| Successful Login | Tests logging in with valid credentials (e.g., "Sajid_Hossain", "TopSecret1234!") and checks account details display. | Pending |
 | Failed Login | Attempts login with invalid credentials and ensures an error message ("INVALID USER") is shown. | Pending |
 | Empty Credentials | Submits the form with empty fields and verifies that the form remains, indicating validation failure. | Pending |
 | Logout Functionality | Logs in, then logs out, and checks if redirected back to the login page. | Pending |
